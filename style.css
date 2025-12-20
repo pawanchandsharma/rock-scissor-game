@@ -1,0 +1,63 @@
+*
+{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+header{
+  margin:50px;
+  text-align: center;
+  color:orangered
+}
+
+header h2{
+  margin-top:20px;
+ 
+}
+#choice-container
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+  
+
+}
+.btn-format
+{
+  border-color: yellow;
+  border-radius: 10px;
+  margin:10px;
+  
+
+ 
+}
+.btn-format img{
+ 
+  height:140px;
+  width:140px;
+  margin:20px 5px 10px 5px;
+  
+}
+
+figcaption{
+  font-size: 20px;
+  color:purple;
+  margin-top:10px;
+  margin-bottom:10px;
+  
+}
+
+#action
+{
+  text-align: center;
+  margin-top: 10px;
+}
+#human-score,#computer-score
+{
+  font-style: italic;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
